@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surfingjoe (Joe OMara)
+- 👋 Hi, I’m @surfingjoe (Joseph OMara)
 - 👀 I’m interested in developing AWS projects to help others who want to study AWS , I'm interested in the automation of AWS (most likely with Terraform, Ansible & Fargate)
 - 🌱 I’m currently ptracticing AWS Solution Architecture, and comparing Cloudformation, Terraform, Ansible for infrastructure and configuration management as methods for AWS release management
 - 💞️ I’m looking to collaborate on Ansible projects & establishing practice projects for those wanting to learn AWS architcture
